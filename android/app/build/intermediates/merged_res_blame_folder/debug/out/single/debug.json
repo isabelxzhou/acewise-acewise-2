@@ -1,0 +1,582 @@
+[
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_common_filter_icon.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-xxhdpi/src_assets_images_common_filter_icon.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_common_option_icon.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-mdpi/src_assets_images_common_option_icon.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_common_rememberpass_image.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-xxhdpi/src_assets_images_common_rememberpass_image.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_common_welcome_logo.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-xhdpi/src_assets_images_common_welcome_logo.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_common_rememberpass_image.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-xhdpi/src_assets_images_common_rememberpass_image.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_common_home_unselected.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-xhdpi/src_assets_images_common_home_unselected.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_common_back_arrow_icon.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-mdpi/src_assets_images_common_back_arrow_icon.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_common_option_icon.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-xhdpi/src_assets_images_common_option_icon.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-hdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-hdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_common_mail.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-xhdpi/src_assets_images_common_mail.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_common_icon_header.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-mdpi/src_assets_images_common_icon_header.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_common_icon_header.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-xhdpi/src_assets_images_common_icon_header.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_common_switchon.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-xhdpi/src_assets_images_common_switchon.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_common_home_bg.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-xxhdpi/src_assets_images_common_home_bg.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_common_rectangle_modal.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-xxhdpi/src_assets_images_common_rectangle_modal.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_common_wallet.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-xhdpi/src_assets_images_common_wallet.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_common_home_bottum.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-xxhdpi/src_assets_images_common_home_bottum.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_common_filter_icon.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-xhdpi/src_assets_images_common_filter_icon.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_common_google.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-mdpi/src_assets_images_common_google.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-mdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-mdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_common_profile_icon.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-xxhdpi/src_assets_images_common_profile_icon.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_common_heart_selected.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-mdpi/src_assets_images_common_heart_selected.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-mdpi_node_modules_reactnative_libraries_newappscreen_components_logo.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-mdpi/node_modules_reactnative_libraries_newappscreen_components_logo.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-xxhdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_common_welcome_logo.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-xxhdpi/src_assets_images_common_welcome_logo.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_common_rectangle_modal.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-mdpi/src_assets_images_common_rectangle_modal.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_common_icon_header.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-xxhdpi/src_assets_images_common_icon_header.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_common_filter_icon.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-mdpi/src_assets_images_common_filter_icon.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_common_eye_icon.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-xhdpi/src_assets_images_common_eye_icon.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_common_home.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-xhdpi/src_assets_images_common_home.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_common_google.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-xhdpi/src_assets_images_common_google.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_common_welcome_bg.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-mdpi/src_assets_images_common_welcome_bg.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable_rn_edit_text_material.xml.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_common_dummy_violin.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-xhdpi/src_assets_images_common_dummy_violin.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_common_home_bottum.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-mdpi/src_assets_images_common_home_bottum.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_common_dummy_violin_image.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-mdpi/src_assets_images_common_dummy_violin_image.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable_splash.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable/splash.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_common_chat.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-mdpi/src_assets_images_common_chat.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_common_switchoff.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-mdpi/src_assets_images_common_switchoff.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_common_profile_icon.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-mdpi/src_assets_images_common_profile_icon.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_common_big_violin.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-xhdpi/src_assets_images_common_big_violin.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_common_profile_icon.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-xhdpi/src_assets_images_common_profile_icon.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_common_bg16.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-mdpi/src_assets_images_common_bg16.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_common_welcome_big_bg.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-mdpi/src_assets_images_common_welcome_big_bg.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_common_lock.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-xhdpi/src_assets_images_common_lock.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_common_big_theme_violin.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-xhdpi/src_assets_images_common_big_theme_violin.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_common_dropdown_icon.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-xhdpi/src_assets_images_common_dropdown_icon.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_common_setting_unselected.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-mdpi/src_assets_images_common_setting_unselected.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_common_option_icon.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-xxhdpi/src_assets_images_common_option_icon.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_common_chat_unselected.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-xhdpi/src_assets_images_common_chat_unselected.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_common_eye_icon.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-xxhdpi/src_assets_images_common_eye_icon.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-xxxhdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_common_chat.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-xhdpi/src_assets_images_common_chat.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_common_welcome_bg.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-xhdpi/src_assets_images_common_welcome_bg.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_common_welcome_big_bg.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-xhdpi/src_assets_images_common_welcome_big_bg.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_common_eye_icon.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-mdpi/src_assets_images_common_eye_icon.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_common_magnifying_glass.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-mdpi/src_assets_images_common_magnifying_glass.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_common_back_arrow_icon.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-xhdpi/src_assets_images_common_back_arrow_icon.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_common_facebook_icon.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-mdpi/src_assets_images_common_facebook_icon.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_common_facebook_icon.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-xxhdpi/src_assets_images_common_facebook_icon.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_common_big_violin.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-xxhdpi/src_assets_images_common_big_violin.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_common_setting_unselected.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-xxhdpi/src_assets_images_common_setting_unselected.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_common_welcome_big_bg.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-xxhdpi/src_assets_images_common_welcome_big_bg.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_common_mail.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-mdpi/src_assets_images_common_mail.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_common_menu.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-xxhdpi/src_assets_images_common_menu.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_common_chat_unselected.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-mdpi/src_assets_images_common_chat_unselected.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_common_big_theme_violin.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-xxhdpi/src_assets_images_common_big_theme_violin.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_common_dummy_violin.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-mdpi/src_assets_images_common_dummy_violin.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_common_linkedin_icon.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-mdpi/src_assets_images_common_linkedin_icon.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_common_home_unselected.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-xxhdpi/src_assets_images_common_home_unselected.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_common_icon_checkbox_selected.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-xxhdpi/src_assets_images_common_icon_checkbox_selected.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_common_big_theme_violin.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-mdpi/src_assets_images_common_big_theme_violin.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_common_linkedin_icon.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-xxhdpi/src_assets_images_common_linkedin_icon.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_common_home_bg.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-xhdpi/src_assets_images_common_home_bg.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_common_google.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-xxhdpi/src_assets_images_common_google.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_common_dummy_violin_image.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-xxhdpi/src_assets_images_common_dummy_violin_image.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_common_welcome_logo.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-mdpi/src_assets_images_common_welcome_logo.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_common_bg_modal.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-xxhdpi/src_assets_images_common_bg_modal.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_common_linkedin_icon.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-xhdpi/src_assets_images_common_linkedin_icon.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_common_buttonnextarrow.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-xxhdpi/src_assets_images_common_buttonnextarrow.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_common_dummy_violin_image.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-xhdpi/src_assets_images_common_dummy_violin_image.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_common_chat_unselected.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-xxhdpi/src_assets_images_common_chat_unselected.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_common_heart_selected.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-xxhdpi/src_assets_images_common_heart_selected.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_common_heart_selected.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-xhdpi/src_assets_images_common_heart_selected.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_common_setting_unselected.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-xhdpi/src_assets_images_common_setting_unselected.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_common_welcome_bg.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-xxhdpi/src_assets_images_common_welcome_bg.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_common_home_bg.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-mdpi/src_assets_images_common_home_bg.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_common_lock.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-mdpi/src_assets_images_common_lock.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_common_wallet.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-xxhdpi/src_assets_images_common_wallet.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_common_chat.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-xxhdpi/src_assets_images_common_chat.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_common_bg_modal.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-xhdpi/src_assets_images_common_bg_modal.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-xhdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_common_switchoff.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-xxhdpi/src_assets_images_common_switchoff.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_common_home_unselected.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-mdpi/src_assets_images_common_home_unselected.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_common_switchoff.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-xhdpi/src_assets_images_common_switchoff.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_common_pinterest_icon.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-xhdpi/src_assets_images_common_pinterest_icon.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_common_instagram_icon.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-xhdpi/src_assets_images_common_instagram_icon.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_common_home.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-xxhdpi/src_assets_images_common_home.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_common_buttonnextarrow.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-xhdpi/src_assets_images_common_buttonnextarrow.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_common_mail.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-xxhdpi/src_assets_images_common_mail.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_common_pinterest_icon.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-xxhdpi/src_assets_images_common_pinterest_icon.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_common_menu.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-mdpi/src_assets_images_common_menu.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_common_wallet.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-mdpi/src_assets_images_common_wallet.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_common_switchon.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-xxhdpi/src_assets_images_common_switchon.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_common_dropdown_icon.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-mdpi/src_assets_images_common_dropdown_icon.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_common_rememberpass_image.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-mdpi/src_assets_images_common_rememberpass_image.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_common_icon_checkbox_selected.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-xhdpi/src_assets_images_common_icon_checkbox_selected.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_common_instagram_icon.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-xxhdpi/src_assets_images_common_instagram_icon.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_common_home.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-mdpi/src_assets_images_common_home.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_common_acelogo.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-mdpi/src_assets_images_common_acelogo.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_common_big_violin.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-mdpi/src_assets_images_common_big_violin.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_common_icon_checkbox_selected.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-mdpi/src_assets_images_common_icon_checkbox_selected.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_common_home_bottum.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-xhdpi/src_assets_images_common_home_bottum.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/layout_launch_screen.xml.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/layout/launch_screen.xml"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_common_rectangle_modal.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-xhdpi/src_assets_images_common_rectangle_modal.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_common_dropdown_icon.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-xxhdpi/src_assets_images_common_dropdown_icon.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_common_buttonnextarrow.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-mdpi/src_assets_images_common_buttonnextarrow.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_common_pinterest_icon.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-mdpi/src_assets_images_common_pinterest_icon.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_common_instagram_icon.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-mdpi/src_assets_images_common_instagram_icon.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_common_facebook_icon.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-xhdpi/src_assets_images_common_facebook_icon.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_common_bg_modal.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-mdpi/src_assets_images_common_bg_modal.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_common_profile_unselected.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-xhdpi/src_assets_images_common_profile_unselected.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_src_assets_images_common_menu.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-xhdpi/src_assets_images_common_menu.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_common_profile_unselected.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-xxhdpi/src_assets_images_common_profile_unselected.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_common_switchon.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-mdpi/src_assets_images_common_switchon.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_common_lock.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-xxhdpi/src_assets_images_common_lock.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_common_dummy_violin.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-xxhdpi/src_assets_images_common_dummy_violin.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-mdpi_src_assets_images_common_profile_unselected.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-mdpi/src_assets_images_common_profile_unselected.png"
+    },
+    {
+        "merged": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_src_assets_images_common_back_arrow_icon.png.flat",
+        "source": "/Users/202136mac/Desktop/backup/AcewiseData/Source/Acewise/android/app/src/main/res/drawable-xxhdpi/src_assets_images_common_back_arrow_icon.png"
+    }
+]

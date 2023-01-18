@@ -1,0 +1,5 @@
+${PODS_ROOT}/Target Support Files/Pods-Acewise-AcewiseTests/Pods-Acewise-AcewiseTests-resources.sh
+${PODS_CONFIGURATION_BUILD_DIR}/IQKeyboardManagerSwift/IQKeyboardManagerSwift.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/RNImageCropPicker/QBImagePicker.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/React-Core/AccessibilityResources.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/TOCropViewController/TOCropViewControllerBundle.bundle

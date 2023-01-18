@@ -1,0 +1,6 @@
+module Pods_Acewise_AcewiseTests {
+  umbrella header "Pods-Acewise-AcewiseTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

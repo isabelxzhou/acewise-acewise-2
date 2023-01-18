@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Acewise.iml" filepath="$PROJECT_DIR$/.idea/modules/Acewise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Acewise.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Acewise.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1279723612/Acewise.react-native-aes-crypto.iml" filepath="$PROJECT_DIR$/.idea/modules/1279723612/Acewise.react-native-aes-crypto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1002328430/Acewise.react-native-async-storage_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/-1002328430/Acewise.react-native-async-storage_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/258524418/Acewise.react-native-community_datetimepicker.iml" filepath="$PROJECT_DIR$/.idea/modules/258524418/Acewise.react-native-community_datetimepicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/210600776/Acewise.react-native-device-info.iml" filepath="$PROJECT_DIR$/.idea/modules/210600776/Acewise.react-native-device-info.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1330237513/Acewise.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-1330237513/Acewise.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-633914308/Acewise.react-native-image-crop-picker.iml" filepath="$PROJECT_DIR$/.idea/modules/-633914308/Acewise.react-native-image-crop-picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/696605447/Acewise.react-native-permissions.iml" filepath="$PROJECT_DIR$/.idea/modules/696605447/Acewise.react-native-permissions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1679767557/Acewise.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/1679767557/Acewise.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2101594528/Acewise.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-2101594528/Acewise.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-919204232/Acewise.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-919204232/Acewise.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1226771029/Acewise.react-native-splash-screen.iml" filepath="$PROJECT_DIR$/.idea/modules/1226771029/Acewise.react-native-splash-screen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1660261654/Acewise.react-native-webview.iml" filepath="$PROJECT_DIR$/.idea/modules/-1660261654/Acewise.react-native-webview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-135969718/react-native-gradle-plugin.iml" filepath="$PROJECT_DIR$/.idea/modules/-135969718/react-native-gradle-plugin.iml" />
+    </modules>
+  </component>
+</project>
